@@ -47,7 +47,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <MapPin className="w-4 h-4" />
-              <span>Arkos g. 1-15, Klevinės vs., LT-14180 Vilniaus r., Latvia</span>
+              <span>Arkos g. 1-15, Klevinės vs., LT-14180 Vilniaus r., Lithuania</span>
             </div>
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <Mail className="w-4 h-4" />
@@ -90,7 +90,7 @@ const Footer = () => {
                   onClick={() => scrollToSection("why-us")}
                   className="hover:text-primary transition-colors"
                 >
-                  Why us
+                  Why Us
                 </button>
               </li>
               <li>

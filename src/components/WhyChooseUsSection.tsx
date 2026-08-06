@@ -29,11 +29,8 @@ const WhyChooseUsSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section header */}
         <div className="text-center mb-16">
-          <span className="text-sm font-semibold uppercase tracking-wider text-primary mb-4 block">
-            Why Choose Us
-          </span>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            What makes us <span className="gradient-text">different</span>
+            Why Choose <span className="gradient-text">Us</span>
           </h2>
         </div>
 

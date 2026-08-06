@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  base: "/CallMeGrowth/", // Must match your GitHub repo name!
+  base: "/", // Must match your GitHub repo name!
   plugins: [react()],
   resolve: {
     alias: {
@@ -13,7 +13,7 @@ export default defineConfig({
   server: {
     host: true,
     strictPort: true,
-    allowedHosts: ["dc92ac541374.ngrok-free.app"],
+    allowedHosts: ["callmegrowth.com"],
   },
   build: {
     rollupOptions: {

@@ -25,7 +25,7 @@ const Privacy = () => {
           <p className="text-muted-foreground animate-slide-up">CallMeGrowth UAB</p>
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-card border border-border text-sm text-muted-foreground animate-slide-down">
               <MapPin className="w-4 h-4" />
-                <span>Arkos g. 1-15, Klevinės vs., LT-14180 Vilniaus r., Latvia.</span>
+                <span>Arkos g. 1-15, Klevinės vs., LT-14180 Vilniaus r., Lithuania.</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold leading-tight animate-slide-down">
             Privacy Policy

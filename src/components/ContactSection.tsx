@@ -22,7 +22,7 @@ const ContactSection = () => {
 
     const form = e.target as HTMLFormElement;
     const formDataToSend = new FormData(form);
-    formDataToSend.append("access_key", "18d12e38-7f8e-41a3-b4cd-a4a9b57d251b");
+    formDataToSend.append("access_key", "882a0011-e9db-433f-bf1c-c64594cff408");
     formDataToSend.append("from_name", formData.name);   // user's full name
     formDataToSend.append("subject", subject);           // dynamic subject
     formDataToSend.append("email", formData.email);
